@@ -1,4 +1,13 @@
 bitnami/minio:2025.2.7
+mysql:8.0.41
+mysql:8.4.4
+redis:6.2.6
+redis:7.4.2
+jenkins/jenkins:2.497-jdk17
+neosmemo/memos:latest
+registry:2.8.3
+nacos/nacos-server:v2.3.0
+yeelabs/yearning:latest
 
 nginx
 
