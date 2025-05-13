@@ -15,7 +15,7 @@ docker.elastic.co/kibana/kibana:7.17.4
 docker.elastic.co/elasticsearch/elasticsearch:7.17.4
 ghcr.io/toeverything/affine-graphql:stable-e043ecf
 postgres:16
-weejewel/wg-easy:7-nightly
+ghcr.io/wg-easy/wg-easy:14
 
 nginx
 
