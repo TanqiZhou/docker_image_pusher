@@ -1,1 +1,1 @@
-nginx
+openeuler/openeuler:24.03-lts-sp2
