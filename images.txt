@@ -60,7 +60,7 @@ eclipse-temurin:8-jdk-jammy
 eclipse-temurin:8u442-b06-jdk
 eclipse-temurin:8u442-b06-jdk-jammy
 
-
+openeuler/openeuler:24.03-lts-sp2
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
