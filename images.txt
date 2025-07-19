@@ -1,1 +1,1 @@
-openeuler/openeuler:24.03-lts-sp2
+louislam/dockge:1.5.0
