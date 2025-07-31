@@ -1,3 +1,4 @@
+bladex/sentinel-dashboard:1.8.8
 openzipkin/zipkin:3.5.1-amd64
 logstash:7.17.4
 rabbitmq:3.12.1-management
