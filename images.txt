@@ -1,4 +1,4 @@
-rockylinux:9.3.20231119-minimal
+rockylinux:9.3.20231119
 tailscale/tailscale:v1.86.2
 bladex/sentinel-dashboard:1.8.8
 openzipkin/zipkin:3.5.1-amd64
