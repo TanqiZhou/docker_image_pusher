@@ -1,3 +1,4 @@
+gdy666/lucky:2.18.2
 nyanmisaka/jellyfin:250730-amd64
 ghcr.io/senshinya/moontv:sha-774f047
 nyanmisaka/jellyfin:250730-amd64
