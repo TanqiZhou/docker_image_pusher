@@ -1,3 +1,4 @@
+graylog/graylog:6.1.14
 allinssl/allinssl:v1.0.7
 caddy:2.10.0
 nginx:1.28.0
