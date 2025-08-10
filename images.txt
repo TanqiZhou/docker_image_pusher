@@ -1,3 +1,5 @@
+bitnami/opensearch-dashboards:3.1.0
+bitnami/opensearch:3.1.0
 graylog/graylog:6.1.14
 allinssl/allinssl:v1.0.7
 caddy:2.10.0
